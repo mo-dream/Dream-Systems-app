@@ -1,0 +1,7 @@
+{
+  "name": "Dream Master | HQ",
+  "description": "لوحة القيادة والتحكم لتفعيل وإدارة المشتركين والدعم الفني المباشر لـ Dream Master",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
